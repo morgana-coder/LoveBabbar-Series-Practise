@@ -1,0 +1,21 @@
+Lecture 31-41
+What is Recursion?
+According to book -> A function calling itself is a Recursion.
+Love Babbar bhaiya explanation -> biggerproblem = something * smallerproblem (operation can be anything)
+
+Components of Recursion :
+1.Base condition with some return 
+2.Recursive Function 
+3. Processing Part such as printing or updation
+
+Why Base condition required ?
+Stack Overflow se bachne ke liye , it will throw Segmentation fault
+
+
+Types of Recursion :
+Head Recursion and Tail Recursion
+
+jisme Recursive function end me ata hai voh Tail
+jisme Recursive function pehle ata hai voh head wrt Processing Part
+
+Tree structure of recursion is important 
